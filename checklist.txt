@@ -1,0 +1,25 @@
+Must-includes (Graded Directly): 
+
+• External Classes (2) Python, (2) x POCO if Java 
+• Module (1) (In addition to main program) (Static external method in external module if Java) 
+• Methods (3) (May be functions and/or procedures) 
+• Lambda Function (1) 
+• User Input (multiple)(Python) List<> if Java 
+• Output (Results, prompts, etc.) 
+• Full documentation including header 
+• 3 Python built-in functions, 3 methods in Java per class. 
+• Must be meaningful code, that is on a subject unique to your 
+  personal interests. This is mandatory. Do not waste time writing 
+  code in which you are not interested. 
+• Must at a minimum, store information in an external file. 
+
+
+Project Enhancements: 
+
+!!! Program uses electronics/Raspberry Pi 
+!!! Program reads/writes from a text file 
+!!! Program reads/writes tuples, lists, or other ADS (abstract data 
+structure) from a file 
+Program uses a database on localhost 
+Program uses TKinter()/GUI Note: Proper JavaFx that meets other 
+specs gets +10 actual extra credit. 
